@@ -1,1 +1,1 @@
-# chandusanjith-Banking-app-using-django
+Banking-app-using-django
